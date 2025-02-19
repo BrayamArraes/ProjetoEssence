@@ -23,7 +23,9 @@
 # 📚 Interface gráfica
 ![INTERFACE](https://github.com/user-attachments/assets/76c955a6-9ddd-4fb9-9839-e23ec34bc1cf)
 
-
+# ⚠️Observação
+    📌 Devido aos termos de privacidade o codigo-fonte não está disponivel.
+    
 # ☎️ Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brayam.arraes2@gmail.com)
