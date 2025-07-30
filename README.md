@@ -21,7 +21,7 @@
 
 
 # 📚 Interface gráfica
-![INTERFACE](https://github.com/BrayamArraes/ProjetoEssence/blob/main/INTERFACE.png?raw=true)
+![INTERFACE]([https://github.com/BrayamArraes/ProjetoEssence/blob/main/INTERFACE.png?raw=true](https://raw.githubusercontent.com/BrayamArraes/ProjetoEssence/refs/heads/main/INTERFACE.png))
 
 # ⚠️Observação
     📌 Devido aos termos de privacidade o codigo-fonte não está disponivel.
